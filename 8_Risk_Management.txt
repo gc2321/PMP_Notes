@@ -1,0 +1,41 @@
+--------------------------------
+8.Risk Management
+--------------------------------
+
+- most of the risk are identified in Identify Risk and Monitor Risk
+- risk owner: response to risk trigger and implement risk responses
+- must discuss risk in all team meetings
+
+**** Plan Risk Management
+- Risk Strategy
+- Funding and timing
+- Risk category: (1) External (2) Internal (3) Technical (4) Commercial (5) Unforeseeable
+- Stakeholder risk appetite
+- Sources of risk: (Schedule, Cost, Quality, Resources, Customer satisfaction)
+
+**** Identify Risk
+- Brainstorming, checklist analysis, interview
+- Root cause analysis, Assumption analysis, Constrain analysis
+- Output: Risk Register
+
+**** Perform Qualitative Risk Analysis
+- Data quality assessment, risk categorization
+- probability and impact matrix
+- Output: assumption log, issue log, risk register update, watch list (low priority list)
+
+**** Perform Quantitative Risk Analysis
+- simulations, sensitivity analysis, decision tree analysis
+- Output: risk register update
+
+**** Plan Risk Responses
+- Risk response strategies (avoid, mitigate, transfer, exploit, share, escalate, accept)
+- involve all risk owners, Stakeholders
+- Output: PMP update, risk register update, 
+
+**** Implement Risk Responses
+
+**** Monitor Risks
+- workaround (only for risk not previously identified), 
+- risk reassessments (for known risk), reserve analysis
+- performance analysis, meetings
+- Output: work performance information, risk register update, change requests

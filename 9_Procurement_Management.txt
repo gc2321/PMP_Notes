@@ -1,0 +1,65 @@
+--------------------------------
+9.Procurement Management
+--------------------------------
+
+**** Plan Procurement Management
+- Make-or-buy decision
+- Creating bidding documents (eg. RFP)
+- Create SOW
+- Select Contract type
+- Determine the source selection criteria
+
+**** Conduct Procurement
+- advertising
+- bidder conference
+- evaluate proposal
+- Negotiation
+- Change of requests
+
+**** Control Procurement Process
+- exercise to completion even if contract is terminated
+- all documents are archived
+- audit, inspection and performance review
+- Change of requests
+- Close Procurement
+
+
+- if seller fail to perform according to the contract terms and conditions, they
+have defaulted. PM can file a default letter.
+- if seller has more expertise than the buyer, SOW should be as detailed as possible
+
+Contract:
+- need to audit invoices for all contracts
+
+Cost-Reimbursable (CR)
+- use when exact scope is uncertain
+
+Cost plus fixed fee (CPFF)
+- do not limit fee increase, fee is paid out on a continuous basis
+- buyer pays all cost (most risky for buyer)
+- for projects with limited scope
+
+Cost plus incentive fee (CPIF)
+- buyer and seller share cost savings at 0.8 : 0.2 for buyer: seller
+
+
+Fixed-price (FP)
+- cost to buyer is limited
+
+Fixed-price incentive fee (FPIF)
+- cost to buyer is limited
+- bonus for achieving some target proportional to performance
+- similar to Fixed-price Award Fee (FPAF), the bonus is fixed
+
+Fixed-price with Economic Price Adjustment (FPEPA)
+- adjusting based on future economic conditions
+
+Purchase Order (PO)
+- normally unilateral
+- used for simple commodity procurements
+
+Time & Material (T&M): 
+- Use for low dollar ad short duration
+- No incentive to finish
+- Negotiation is less extensive
+- 
