@@ -1,3 +1,41 @@
 --------------------------------
 4.Cost Management
 --------------------------------
+
+- analogous estimate - uses top-down estimate
+- parametric estimate - based on historical records
+- Rough order magnitude (ROM) - made during project initiation
+
+**** Plan Cost Management
+- identify WBS level at which EV will be calculated
+
+**** Estimate Cost
+- variable cost: costs that changes with amount of work
+- fixed cost: costs that are constant
+- direct cost: directly related to work
+- indirect cost: cost that may benefit more than one project
+- alternative analysis and reserve analysis
+- identified risks are both input and output of estimate cost
+
+**** Determine Budget
+- establish baseline for measuring project Performance
+- contingency reserve is added to the cost baseline
+
+**** Control Costs
+
+Budget at completion (BAC): 
+Planned value (PV): estimated cost
+Earned value (EV): percent complete * budget at completion
+Actual cost (AC): amount spent so far
+
+Cost variance (CV): EV - AC, +: under budget, -: over budget
+Schedule variance (SV): EV - PV, +: ahead of Schedule, -: behind Schedule
+
+Cost Performance Index (CPI): 
+EV / AC, progression rate, > 1: under budget, < 1: over budget
+x cent per dollar invested
+
+Schedule Performance Index (SPI): 
+EV / PV, > 1: ahead of schedule, < 1: behind schedule
+
+Estimate at completion (EAC): BAC / CPI

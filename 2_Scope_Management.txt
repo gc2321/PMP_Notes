@@ -1,3 +1,17 @@
 --------------------------------
 2.Scope Management
 --------------------------------
+
+**** Plan scope Management
+
+**** Collect Requirements
+
+**** Define scope
+
+**** Create WBS
+
+
+**** Validate Scope
+
+**** Control Scope
+
