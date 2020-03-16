@@ -1,3 +1,26 @@
 --------------------------------
 5.Quality Management
 --------------------------------
+
+- marginal analysis - analysis on the most cost-benefit approach to improve quality
+- quality audit - to identify inefficiencies and ineffectient policies
+- quality cannot be inspect in
+
+**** Plan Quality Management
+- mind mapping (categorize information)
+- matrix diagram - visual representation of relationship between 2 or more items
+
+**** Manage Quality
+- checklist
+- cause-and-effect (Fishbone, Ishikawa) - stimulate thinking and analyze the cause of quality problem
+- histogram - focus on critical issues to improve quality
+- control chart - determine if process is out of control
+- Scatter diagram
+- alternative analysis
+- output: test and evaluation documents, quality report
+
+**** Control Quality
+- performance review and inspections
+- involve measuring
+- Rule of 7: a trend
+

@@ -2,3 +2,27 @@
 1.Integreation Management
 --------------------------------
 
+**** Develop Project Charter
+- Business Case
+- Assumptions and Constraints
+
+**** Develop Project Management Plan
+- Baselines
+- Change control System
+- need approval
+
+**** Direct and Manage Project Work
+
+**** Manage Project Knowledge
+- Knowledge and information management
+
+**** Monitor & Control Project Work
+- Change requests
+- Corrective action
+- preventive action
+
+**** Perform Integrated Change Control
+- Change Control Board (CCB)
+
+**** Close Project or Phase
+

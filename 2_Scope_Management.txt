@@ -5,11 +5,19 @@
 **** Plan scope Management
 
 **** Collect Requirements
+- Project Charter
+- Assumption log
+- Shakeholder registry
+- voting, brain storming, affinity diagrams
 
 **** Define scope
+- product analysis
 
 **** Create WBS
-
+- include only deliverables
+- WBS do not show dependencies
+- build WBS dictionary
+- scope baseline
 
 **** Validate Scope
 
