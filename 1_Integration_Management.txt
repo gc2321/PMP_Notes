@@ -2,6 +2,8 @@
 1.Integreation Management
 --------------------------------
 
+- project sponsor - issue project charter, prevent unnecessary changs to project objectives
+
 **** Develop Project Charter
 - Business Case
 - Assumptions and Constraints

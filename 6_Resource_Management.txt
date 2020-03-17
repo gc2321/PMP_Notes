@@ -1,3 +1,42 @@
 --------------------------------
 6.Resource Management
 --------------------------------
+
+**** Plan Reource Management
+- Kaizen - continuous improvement
+- Just in Time (JIT) - for physical resources so that they are available when they are needed
+- enterprise environmental factors
+- responsbility assignment matrix (RAM)
+- RACI chart (Responsible, Accountable (1 only), Consult, Inform)
+
+**** Estimate Activity Resources
+- estimates: bottom-up, analogous, parametric, alternative
+
+**** Acquire Resources
+- Type of teams: dedicated, part-time, partnership, virtual
+
+**** Develop Team
+- Interpersonal and Team skills:
+- McGregor's Theory of X and Y: people need to be supervisor (X) or people direct their own effort
+- Maslow' Hierarchy of Needs: Physiological, Safety, Social, Esteem, Self-actualization
+- McClelland Theory of Needs: Achievement, Affiliation, Power
+- Herzberg's Two-Factor Theory of Motivation: (1) Hygiene (2) Motivation Agents
+- Individual and Team Assessment
+
+- Tuckman's Team Development: (1) Forming (2) Storming (3) Norming (4) Performing
+
+**** Manage Team
+- Conflict resolution techniques:
+Collaborating (problem-solving, best), 
+Compromising (reconciling, second best), 
+Withdrawal (avoidance), 
+Smoothing (accommodating, both parties give up something), 
+Forcing (directing)
+
+- Expectant theory (Vroom): employee remains productive as long as reward matches expectation
+- Perquisites: perks
+- Fringe: standard benefits
+
+**** Control Resources
+- work performance data, performance review
+- trend analysis, alternative analysis

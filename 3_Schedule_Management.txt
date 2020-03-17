@@ -3,6 +3,9 @@
 --------------------------------
 
 - Leveling: rearrange resources so that constant number of resources are available at a given time
+- soft logic: allows PM to make decisions based on conditions outside of the project
+- Parkinson's Law: work will expand to fulfill the time allotted to it.
+- Flattened project schedule through resource leveling will likley increase project schedule duration
 
 **** Plan Schedule Management
 
@@ -17,8 +20,9 @@
 - leads and lags
 
 **** Estimate Activity Duration
-- one-point estimate, analogous estimate, parametric estimate (regression, learning curve)
-- three-point estimate (POM, triangular distribution (P+M+O)/3 or beta distribution (P+4M+O)/6)
+- one-point estimate, analogous estimate
+- parametric estimate (regression, learning curve, using parameters)
+- three-point estimate (POM or PERT, triangular distribution (P+M+O)/3 or beta distribution (P+4M+O)/6)
 - bottom-up estimate (longer but better)
 - data analysis: alternative analysis, reserve analysis
 - decision making

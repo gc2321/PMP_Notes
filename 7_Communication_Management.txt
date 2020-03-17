@@ -1,3 +1,13 @@
 --------------------------------
 7.Communication Management
 --------------------------------
+
+- use of formal written communication is most useful in complex problems
+
+**** Plan Communication Management
+- communication channels: n(n-1)/2
+
+**** Manage Communication
+- meetings, project reporting
+
+**** Monitor Communication
