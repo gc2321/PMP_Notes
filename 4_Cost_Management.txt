@@ -5,9 +5,13 @@
 - analogous estimate - uses top-down estimate
 - parametric estimate - based on historical records
 - Rough order magnitude (ROM) - made during project initiation
+- Value Engineering: an approach to find less costly ways to complete the same work
+- Present value (PV) = FV / (1+i) n
+- opportunity cost = cost of project not chosen
 
 **** Plan Cost Management
 - identify WBS level at which EV will be calculated
+- control how cost variance will be managed
 
 **** Estimate Cost
 - variable cost: costs that changes with amount of work

@@ -11,16 +11,19 @@
 - Funding and timing
 - Risk category: (1) External (2) Internal (3) Technical (4) Commercial (5) Unforeseeable
 - Stakeholder risk appetite
+- Utility function: person's willingness to tolerate risk
 - Sources of risk: (Schedule, Cost, Quality, Resources, Customer satisfaction)
 
 **** Identify Risk
 - Brainstorming, checklist analysis, interview
 - Root cause analysis, Assumption analysis, Constrain analysis
+- Delphi method: multiple rounds of questionnaires sent to a panel of experts,
+ the anonymous responses are aggregated and shared with the group
 - Output: Risk Register
 
 **** Perform Qualitative Risk Analysis
 - Data quality assessment, risk categorization
-- probability and impact matrix
+- Probability and Impact Matrix: a table of risk, their probability and impact
 - Output: assumption log, issue log, risk register update, watch list (low priority list)
 
 **** Perform Quantitative Risk Analysis

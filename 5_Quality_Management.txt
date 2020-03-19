@@ -1,10 +1,12 @@
 --------------------------------
 5.Quality Management
 --------------------------------
-
+- Quality: process of completing the scope to meet stated or implied needs, prevention-driven
 - marginal analysis - analysis on the most cost-benefit approach to improve quality
-- quality audit - to identify inefficiencies and ineffectient policies
+- quality audit - to identify inefficiencies and inefficient policies
 - quality cannot be inspect in
+- ISO: ensure company follows its own quality procedures
+- Total Quality Management (TMQ): find methods to continuously improve product, services, practices
 
 **** Plan Quality Management
 - mind mapping (categorize information)
@@ -14,8 +16,11 @@
 - checklist
 - cause-and-effect (Fishbone, Ishikawa) - stimulate thinking and analyze the cause of quality problem
 - histogram - focus on critical issues to improve quality
+- flowchart
 - control chart - determine if process is out of control
 - Scatter diagram
+- pareto diagram
+
 - alternative analysis
 - output: test and evaluation documents, quality report
 

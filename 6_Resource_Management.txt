@@ -2,12 +2,13 @@
 6.Resource Management
 --------------------------------
 
-**** Plan Reource Management
+**** Plan Resource Management
 - Kaizen - continuous improvement
 - Just in Time (JIT) - for physical resources so that they are available when they are needed
 - enterprise environmental factors
-- responsbility assignment matrix (RAM)
+- responsibility assignment matrix (RAM)
 - RACI chart (Responsible, Accountable (1 only), Consult, Inform)
+- Theory of constraints: "a chain is only as strong as its weakest link"
 
 **** Estimate Activity Resources
 - estimates: bottom-up, analogous, parametric, alternative
@@ -21,6 +22,7 @@
 - Maslow' Hierarchy of Needs: Physiological, Safety, Social, Esteem, Self-actualization
 - McClelland Theory of Needs: Achievement, Affiliation, Power
 - Herzberg's Two-Factor Theory of Motivation: (1) Hygiene (2) Motivation Agents
+- Ouchi's Theory of Z: workers needs to be involved with management process
 - Individual and Team Assessment
 
 - Tuckman's Team Development: (1) Forming (2) Storming (3) Norming (4) Performing
@@ -30,7 +32,7 @@
 Collaborating (problem-solving, best), 
 Compromising (reconciling, second best), 
 Withdrawal (avoidance), 
-Smoothing (accommodating, both parties give up something), 
+Smoothing (accommodating, both parties give up something)
 Forcing (directing)
 
 - Expectant theory (Vroom): employee remains productive as long as reward matches expectation

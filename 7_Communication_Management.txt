@@ -9,5 +9,10 @@
 
 **** Manage Communication
 - meetings, project reporting
+- Project Reporting:
+Status report, Trend report, Forecasting report, Variance report, Earned value report, Lessons learned
+
+- performance reporting: (1) change requests (2) performance reports
 
 **** Monitor Communication
+- Exception report: completed when variances exceed a given limit
