@@ -20,9 +20,10 @@
 - Interpersonal and Team skills:
 - McGregor's Theory of X and Y: people need to be supervisor (X) or people direct their own effort
 - Maslow' Hierarchy of Needs: Physiological, Safety, Social, Esteem, Self-actualization
-- McClelland Theory of Needs: Achievement, Affiliation, Power
+- McClelland Theory of Needs: (1) Achievement (2) Affiliation (3) Power
 - Herzberg's Two-Factor Theory of Motivation: (1) Hygiene (2) Motivation Agents
 - Ouchi's Theory of Z: workers needs to be involved with management process
+- Vroom's Expectancy theory: people work in relation to the expected rewards
 - Individual and Team Assessment
 
 - Tuckman's Team Development: (1) Forming (2) Storming (3) Norming (4) Performing
@@ -30,12 +31,11 @@
 **** Manage Team
 - Conflict resolution techniques:
 Collaborating (problem-solving, best), 
-Compromising (reconciling, second best), 
+Compromising (reconciling, second best) - both parties give up something
 Withdrawal (avoidance), 
 Smoothing (accommodating, both parties give up something)
 Forcing (directing)
 
-- Expectant theory (Vroom): employee remains productive as long as reward matches expectation
 - Perquisites: perks
 - Fringe: standard benefits
 

@@ -2,6 +2,12 @@
 9.Procurement Management
 --------------------------------
 
+- Letter of Intent: intent to buy from this company
+- Invitation to Bid (IFB): from buyer to seller, request seller to provide a price
+- Request for Proposal (RFP): from buyer to seller, request seller to provide proposal
+- Term of Reference: define obligations for the sellers
+- Privity: contract relationship between buyer and seller is confidential
+
 **** Plan Procurement Management
 - Make-or-buy decision
 - Creating bidding documents (eg. RFP)
@@ -23,7 +29,6 @@
 - Change of requests
 - Close Procurement
 
-
 - if seller fail to perform according to the contract terms and conditions, they
 have defaulted. PM can file a default letter.
 - if seller has more expertise than the buyer, SOW should be as detailed as possible
@@ -41,7 +46,6 @@ Cost plus fixed fee (CPFF)
 
 Cost plus incentive fee (CPIF)
 - buyer and seller share cost savings at 0.8 : 0.2 for buyer: seller
-
 
 Fixed-price (FP)
 - cost to buyer is limited
@@ -62,4 +66,4 @@ Time & Material (T&M):
 - Use for low dollar ad short duration
 - No incentive to finish
 - Negotiation is less extensive
-- 
+

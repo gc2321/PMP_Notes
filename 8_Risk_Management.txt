@@ -5,11 +5,17 @@
 - most of the risk are identified in Identify Risk and Monitor Risk
 - risk owner: response to risk trigger and implement risk responses
 - must discuss risk in all team meetings
+- Cardinal scales: ranking to identify probability and impact using a numerical value
+- Ordinal scales: rank risks from very high to very unlikely
+- Pure risk: risk that have only negative outcome
 
 **** Plan Risk Management
 - Risk Strategy
 - Funding and timing
 - Risk category: (1) External (2) Internal (3) Technical (4) Commercial (5) Unforeseeable
+- PESTLE: Political, Economical, Social, Technological, Legal, Environmental
+- TECOP: Technical, Environmental, Commercial, Operational, Political
+- VUCA: Volatility, Uncertainty, Complexity, Ambiguity
 - Stakeholder risk appetite
 - Utility function: person's willingness to tolerate risk
 - Sources of risk: (Schedule, Cost, Quality, Resources, Customer satisfaction)

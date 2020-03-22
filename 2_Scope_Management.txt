@@ -7,8 +7,13 @@
 **** Collect Requirements
 - Project Charter
 - Assumption log
-- Shakeholder registry
+- Stakeholder registry
 - voting, brain storming, affinity diagrams
+
+- Mind mapping: show relationship among requirements and the difference between requirements
+- Context diagram: highlighting the products and its interface with people, processes or systems
+- Nominal group technique: generate many ideas and rank them by voting
+- Requirements traceability matrix (RTM) - help to link requirements to objective
 
 **** Define scope
 - product analysis
@@ -16,6 +21,7 @@
 **** Create WBS
 - include only deliverables
 - WBS do not show dependencies
+- WBS: between 8 - 80 hours of work
 - build WBS dictionary
 - scope baseline
 

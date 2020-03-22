@@ -1,8 +1,16 @@
 --------------------------------
 1.Integreation Management
 --------------------------------
+- Project Life Cycle: (1) Initiation (2) Planning (3) Execution (4) Closing
+- project sponsor - issue project charter, prevent unnecessary changes to project objectives
+- project sponsor: accountable for the success of project
+- PM: responsible to plan and execute the project
 
-- project sponsor - issue project charter, prevent unnecessary changs to project objectives
+- Rolling wave planning (Progressive Planning)
+- PMO: (1) supportive (2) controlling (3) directive
+- Transactional leadership (management by exception): emphasize goals, rewards and disincentives
+- PV = FV/(1+r)^n
+- tacit Knowledge - "know-how"
 
 **** Develop Project Charter
 - Business Case
@@ -10,8 +18,10 @@
 
 **** Develop Project Management Plan
 - Baselines
-- Change control System
+- Change control System -> Change control board
 - need approval
+- Configuration Management Plan - characteristics of product, define how changes to features and functions
+of the deliverable, scope, may enter the project
 
 **** Direct and Manage Project Work
 

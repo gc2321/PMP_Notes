@@ -6,8 +6,9 @@
 - parametric estimate - based on historical records
 - Rough order magnitude (ROM) - made during project initiation
 - Value Engineering: an approach to find less costly ways to complete the same work
-- Present value (PV) = FV / (1+i) n
+- Present value (PV) = FV / (1+i)^n
 - opportunity cost = cost of project not chosen
+- Cost aggregation: each control account is aggregated to the sum of the project costs
 
 **** Plan Cost Management
 - identify WBS level at which EV will be calculated
@@ -27,6 +28,11 @@
 
 **** Control Costs
 
+Net Present Value (NPV, $): Total investment - total benefit
+Internal Rate of return (IRR, %): level on percent of desired return
+Return on Investment (ROI, %): level on return on investment
+Payback period (time): time to recover cost of the project
+
 Budget at completion (BAC): 
 Planned value (PV): estimated cost
 Earned value (EV): percent complete * budget at completion
@@ -42,4 +48,17 @@ x cent per dollar invested
 Schedule Performance Index (SPI): 
 EV / PV, > 1: ahead of schedule, < 1: behind schedule
 
-Estimate at completion (EAC): BAC / CPI
+Estimate at completion (EAC): 
+1. Re-estimate: AC + revised ETC
+2. Base on current speed: BAC / CPI
+3. Assume future performance will improved: AC + (BAC - EV)
+4. Assume both schedule factor remains: AC + (BAC - EV)/(CPI * SPI)
+
+To-complete performance Index (TCPI):
+Able to meet BAC? (BAC - EV)/(BAC - AC)
+Able to meet new estimate? (BAC - EV) /(EAC -AC)
+> 1 : bad
+
+
+
+
