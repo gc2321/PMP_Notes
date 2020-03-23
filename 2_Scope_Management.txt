@@ -23,7 +23,13 @@
 - WBS do not show dependencies
 - WBS: between 8 - 80 hours of work
 - build WBS dictionary
-- scope baseline
+- Scope baseline:
+(1) Project scope statement
+(2) WBS
+(3) Control account: control point where schedule, budget, cost are integrated and 
+compared to Earned Value Performance. Contains 2 or more work packages
+(4) Planning package: Below Control account and above work packages. 
+With work content but no schedule activities.
 
 **** Validate Scope
 

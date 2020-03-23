@@ -2,7 +2,7 @@
 1.Integreation Management
 --------------------------------
 - Project Life Cycle: (1) Initiation (2) Planning (3) Execution (4) Closing
-- project sponsor - issue project charter, prevent unnecessary changes to project objectives
+- project sponsor: issue project charter, prevent unnecessary changes to project objectives
 - project sponsor: accountable for the success of project
 - PM: responsible to plan and execute the project
 
@@ -10,7 +10,6 @@
 - PMO: (1) supportive (2) controlling (3) directive
 - Transactional leadership (management by exception): emphasize goals, rewards and disincentives
 - PV = FV/(1+r)^n
-- tacit Knowledge - "know-how"
 
 **** Develop Project Charter
 - Business Case
@@ -24,9 +23,12 @@
 of the deliverable, scope, may enter the project
 
 **** Direct and Manage Project Work
+- Requirement Traceability Matrix: link product requirements to deliverable that satisfy them
 
 **** Manage Project Knowledge
 - Knowledge and information management
+- Tacit Knowledge - "know-how"
+- Explicit Knowledge - "know-what"
 
 **** Monitor & Control Project Work
 - Change requests

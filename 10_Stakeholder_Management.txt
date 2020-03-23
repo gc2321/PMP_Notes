@@ -12,7 +12,8 @@
 Plan Risk Management, and Identify Risks
 
 **** Plan Stakeholder Engagement
-- Stakeholder Engagement Assessment Matrix: Leading, Supportive, Neutral, Resistant, Unaware
+- Stakeholder Engagement Assessment Matrix: 
+(1) Leading (2) Supportive (3) Neutral (4) Resistant (5) Unaware
 
 **** Manage Stakeholder Engagement
 
