@@ -33,7 +33,8 @@
 - Output: assumption log, issue log, risk register update, watch list (low priority list)
 
 **** Perform Quantitative Risk Analysis
-- simulations, sensitivity analysis, decision tree analysis
+- simulations, sensitivity analysis ("Tornado"), decision tree analysis
+- Expected Monetary Value Analysis (EMVA)
 - Output: risk register update
 
 **** Plan Risk Responses

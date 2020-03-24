@@ -24,6 +24,7 @@
 - Herzberg's Two-Factor Theory of Motivation: (1) Hygiene (2) Motivation Agents
 - Ouchi's Theory of Z: workers needs to be involved with management process
 - Vroom's Expectancy theory: people work in relation to the expected rewards
+- Contingency Theory: people have a central need to achieve competence
 - Individual and Team Assessment
 
 - Tuckman's Team Development: (1) Forming (2) Storming (3) Norming (4) Performing
@@ -32,9 +33,9 @@
 - Conflict resolution techniques:
 Collaborating (problem-solving, best), 
 Compromising (reconciling, second best) - both parties give up something
-Withdrawal (avoidance), 
-Smoothing (accommodating, both parties give up something)
-Forcing (directing)
+Withdrawal (Lose-Leave, avoidance), 
+Smoothing (Yield-Lose, accommodating, both parties give up something)
+Forcing (Win-Lose, directing)
 
 - Perquisites: perks
 - Fringe: standard benefits

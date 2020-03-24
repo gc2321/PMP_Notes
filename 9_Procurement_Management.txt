@@ -32,6 +32,7 @@
 - if seller fail to perform according to the contract terms and conditions, they
 have defaulted. PM can file a default letter.
 - if seller has more expertise than the buyer, SOW should be as detailed as possible
+- Alternative Dispute Resolution: (1) Mediation (2) Arbitration (3) Litigation
 
 Contract:
 - need to audit invoices for all contracts
