@@ -5,6 +5,8 @@
 - project sponsor: issue project charter, prevent unnecessary changes to project objectives
 - project sponsor: accountable for the success of project
 - PM: responsible to plan and execute the project
+- Linear programming: constrained optimization
+- Change control board: need only on some but not all change issues
 
 - Rolling wave planning (Progressive Planning)
 - PMO: (1) supportive (2) controlling (3) directive
