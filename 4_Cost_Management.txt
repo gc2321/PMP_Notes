@@ -1,11 +1,12 @@
 --------------------------------
 4.Cost Management
 --------------------------------
-
+- Life cycle cost: total cost of product
 - analogous estimate - uses top-down estimate
 - parametric estimate - based on historical records
 - Rough order magnitude (ROM) - made during project initiation
 - Value Engineering: an approach to find less costly ways to complete the same work
+- Value Analysis: find the least expensive way to do work
 - Present value (PV) = FV / (1+i)^n
 - opportunity cost = cost of project not chosen
 - Cost aggregation: each control account is aggregated to the sum of the project costs
@@ -21,6 +22,8 @@
 - indirect cost: cost that may benefit more than one project
 - alternative analysis and reserve analysis
 - identified risks are both input and output of estimate cost
+- Parametric estimate: based on historic information:
+- Analogous estimate: top-down estimate
 
 **** Determine Budget
 - establish baseline for measuring project Performance

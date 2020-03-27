@@ -2,7 +2,12 @@
 2.Scope Management
 --------------------------------
 
+- product validation: occurs in project closing
+- scope validation: occurs in beginning, allow customer's acceptance of deliverables
+- scope validation: does not involve schedule
+
 **** Plan scope Management
+- covers both product and project scope
 
 **** Collect Requirements
 - Project Charter
@@ -30,6 +35,8 @@
 compared to Earned Value Performance. Contains 2 or more work packages
 (4) Planning package: Below Control account and above work packages. 
 With work content but no schedule activities.
+
+- anything missing in WBS should be evaluated in Perform Integrated Change Control process
 
 **** Validate Scope
 

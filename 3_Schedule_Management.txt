@@ -9,6 +9,7 @@ completion time is not effected
 - soft logic: allows PM to make decisions based on conditions outside of the project
 - Parkinson's Law: work will expand to fulfill the time allotted to it.
 - Flattened project schedule through resource leveling will likely increase project schedule duration
+- Network diagram: flow of work, when work should be done and in which order
 
 **** Plan Schedule Management
 
@@ -25,6 +26,7 @@ completion time is not effected
 - leads and lags
 
 **** Estimate Activity Duration
+- resource requirement and estimate
 - one-point estimate, analogous estimate
 - parametric estimate (regression, learning curve, using parameters)
 - three-point estimate (POM or PERT, triangular distribution (P+M+O)/3 or beta distribution (P+4M+O)/6)
