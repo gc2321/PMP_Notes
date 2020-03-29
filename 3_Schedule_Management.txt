@@ -10,6 +10,7 @@ completion time is not effected
 - Parkinson's Law: work will expand to fulfill the time allotted to it.
 - Flattened project schedule through resource leveling will likely increase project schedule duration
 - Network diagram: flow of work, when work should be done and in which order
+- Schedule conflict is number one source of conflicts on projects
 
 **** Plan Schedule Management
 

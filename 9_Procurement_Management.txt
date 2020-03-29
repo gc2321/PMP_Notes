@@ -7,6 +7,7 @@
 - Request for Proposal (RFP): from buyer to seller, request seller to provide proposal
 - Term of Reference: define obligations for the sellers
 - Privity: contract relationship between buyer and seller is confidential
+- Claims: result from a breach of contract
 
 **** Plan Procurement Management
 - Make-or-buy decision

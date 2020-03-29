@@ -2,7 +2,11 @@
 5.Quality Management
 --------------------------------
 - Quality: process of completing the scope to meet stated or implied needs, prevention-driven
+- Quality: determine if product is acceptable (not successful), based on characteristics which a product
+ is designed and tested
+- benefit of improve quality: increase productivity, increase cost effectiveness, decrease cost risk, improve morale
 - marginal analysis - analysis on the most cost-benefit approach to improve quality
+- Specification limit: customer's definition of quality
 - quality audit - to identify inefficiencies and inefficient policies
 - quality cannot be inspect in
 - ISO: ensure company follows its own quality procedures

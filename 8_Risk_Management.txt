@@ -22,6 +22,7 @@
 
 **** Identify Risk
 - Brainstorming, checklist analysis, interview
+- need project scope statement
 - Root cause analysis, Assumption analysis, Constrain analysis
 - Delphi method: multiple rounds of questionnaires sent to a panel of experts,
  the anonymous responses are aggregated and shared with the group
@@ -29,6 +30,7 @@
 
 **** Perform Qualitative Risk Analysis
 - Data quality assessment, risk categorization
+- need project scope statement
 - Probability and Impact Matrix: a table of risk, their probability and impact
 - Output: assumption log, issue log, risk register update, watch list (low priority list)
 
@@ -48,4 +50,5 @@
 - workaround (only for risk not previously identified), 
 - risk reassessments (for known risk), reserve analysis
 - performance analysis, meetings
+- does not need organizational process assets
 - Output: work performance information, risk register update, change requests

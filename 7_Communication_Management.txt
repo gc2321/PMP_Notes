@@ -3,6 +3,7 @@
 --------------------------------
 
 - use of formal written communication is most useful in complex problems
+- status meeting: exchange information about the project
 
 **** Plan Communication Management
 - communication channels: n(n-1)/2

@@ -3,6 +3,7 @@
 --------------------------------
 
 - Stakeholders determine project constraints and product deliverables
+- Salience Model: classify Stakeholders based on (1) power (2) urgency (3) legitimacy
 
 **** Identify Stakeholder
 - Stakeholder analysis
